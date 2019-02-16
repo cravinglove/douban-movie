@@ -1,0 +1,23 @@
+{
+  "name": "douban-movie",
+  "version": "1.0.0",
+  "description": "douban trailer",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cravinglove/douban-movie.git"
+  },
+  "author": "macon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cravinglove/douban-movie/issues"
+  },
+  "homepage": "https://github.com/cravinglove/douban-movie#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
