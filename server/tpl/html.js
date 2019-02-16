@@ -17,7 +17,7 @@ module.exports = `
             <p>this is macpm</p>
           </div>
           <div class="col-md-4">
-            <p>测试sssssssss</p>
+            <p>测试静态</p>
           </div>
         </div>   
       </div>
